@@ -1,0 +1,15 @@
+node_modules/
+build/
+
+
+env
+node_modules
+build
+artifacts
+
+.env
+.DS_Store
+test
+.github
+.idea
+keystore
