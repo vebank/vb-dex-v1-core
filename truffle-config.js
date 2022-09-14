@@ -80,7 +80,9 @@ module.exports = {
       production: true,
       gasPrice: 128,
       timeoutBlocks: 200
-    },
+    }
+  },
+
   // Set default mocha options here, use special reporters etc.
   mocha: {
     // timeout: 100000

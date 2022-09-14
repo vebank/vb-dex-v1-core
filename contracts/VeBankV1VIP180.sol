@@ -1,9 +1,9 @@
 pragma solidity >=0.5.16;
 
-import './interfaces/IVeBankV1ERC20.sol';
+import './interfaces/IVeBankV1VIP180.sol';
 import './libraries/SafeMath.sol';
 
-contract VeBankV1ERC20 is IVeBankV1ERC20 {
+contract VeBankV1VIP180 is IVeBankV1VIP180 {
     using SafeMath for uint;
 
     string public constant name = 'VeBank V1';
